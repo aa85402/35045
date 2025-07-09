@@ -20,4 +20,4 @@ SEO策略上，我们结合谷歌搜索趋势，在文章结构中均匀布局�
 
 本站每日更新100部以上影片，配合全球高速CDN节点，保障在线播放不卡顿。支持Aria2与BT种子离线下载，并附带字幕包及磁力镜像地址，随时可用。真正实现看片自由、隐私安全、永久免费。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link](https://github.com/aa85402/35045 ）</span>
